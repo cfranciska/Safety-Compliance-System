@@ -1,0 +1,7 @@
+streamlit
+ultralytics
+langchain-openai
+openai
+opencv-python
+pillow
+numpy
